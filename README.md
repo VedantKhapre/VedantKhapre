@@ -5,7 +5,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://matrix.to/#/@cache.vedant:matrix.org" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="matrix logo"  />
   </a>
