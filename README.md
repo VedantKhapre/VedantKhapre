@@ -1,6 +1,38 @@
 ###
 
-<p align="left">Hi 👋! I'm Vedant, a computer science student and Arch Linux enthusiast from India. I love exploring coding, working on exciting projects, and constantly learning new things. From diving into Android development and DSA, I enjoy blending creativity with technical problem-solving. When I'm not coding, I work on creating design and geek out over making my system setup just right. 😊</p>
+<p float="left">
+  <img src="images/image.jpg" width="250" align="left">
+  <p float="left">
+    <samp>
+      i'm Vedant | 20 | he/him/his
+      <br>
+      i like music, cli/tui tools & more
+      <br>
+      experienced in Kotlin, c/c++ & Bash
+      <br>
+      <br>
+      i play minecraft, im fucking awesome
+      I develop apps and i use arch linux BTW
+      <br>
+      <br>
+      currently working on NOTHING unfortunately
+      <br>
+      <br>
+      twt: 
+      <a href="https://x.com/VedantKhapre">@VedantKhapre</a><br>
+      contact: 
+      <a href="https://discordapp.com/users/1091575419167314030">Discord@Cookie</a><br>
+      <br>
+      silly projects include:
+      <br>
+      <a href="https://github.com/VedantKhapre/iBefore">Chat Application with Offline chat Translation</a><br>
+      <a href="https://github.com/VedantKhapre/Offline-Translator">Offline Translator</a><br>
+      <a href="https://github.com/VedantKhapre/Flix">Cli to search and stream torrents</a><br>
+      <a href="https://github.com/VedantKhapre/Discord-website-clone">Discord Website clone</a><br>
+    </samp>
+  </p>
+</p>
+ 
 
 ###
 
@@ -30,10 +62,8 @@
 </div>
 
 ###
-
-<div align="center" style="display: flex; align-items: center;">
   
-  <div align="left" style="margin-left: auto;">
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />&nbsp;
@@ -50,12 +80,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
   </div>
   
-  <div align="right" style="margin-left: auto;">
+  <div align="center">
     <a href="https://open.spotify.com/user/316lavx4eppcg3psticrsva4uale">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=316lavx4eppcg3psticrsva4uale&count=1&unique=true" alt="Spotify recently played" />
     </a>
   </div>
   
-</div>
 
 ###
