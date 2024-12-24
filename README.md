@@ -29,6 +29,8 @@
       <a href="https://github.com/VedantKhapre/Offline-Translator">Offline Translator</a><br>
       <a href="https://github.com/VedantKhapre/Flix">Cli to search and stream torrents</a><br>
       <a href="https://github.com/VedantKhapre/Discord-website-clone">Discord Website clone</a><br>
+      <br>
+      <br>
     </samp>
   </p>
 </p>
