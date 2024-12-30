@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <a href="https://matrix.to/#/@cache.vedant:matrix.org" target="_blank">
+  <a href="https://matrix.to/#/@ivedant:matrix.org" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="matrix logo"  />
   </a>
   <a href="https://discordapp.com/users/1091575419167314030" target="_blank">
