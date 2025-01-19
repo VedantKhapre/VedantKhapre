@@ -15,7 +15,7 @@
       I develop apps and i use arch linux BTW
       <br>
       <br>
-      currently working on NOTHING unfortunately
+      currently learning rust 🦀
       <br>
       <br>
       twt: 
