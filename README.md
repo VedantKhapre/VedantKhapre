@@ -27,7 +27,7 @@
       <br>
       <a href="https://github.com/VedantKhapre/iBefore">Chat Application with Offline chat Translation</a><br>
       <a href="https://github.com/VedantKhapre/Offline-Translator">Offline Translator</a><br>
-      <a href="https://github.com/VedantKhapre/Flix">Cli to search and stream torrents</a><br>
+      <a href="https://github.com/VedantKhapre/Bluesink">Bluetooth audio devices to play audio simultaneously</a><br>
       <a href="https://github.com/VedantKhapre/Discord-website-clone">Discord Website clone</a><br>
       <br>
       Visit my site <a href="https://ivedant.me">iVedant.me</a>
