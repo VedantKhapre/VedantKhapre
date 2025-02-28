@@ -15,7 +15,7 @@
       I develop apps and i use arch linux BTW
       <br>
       <br>
-      currently learning rust 🦀
+      currently learning Minecraft modding
       <br>
       <br>
       twt: 
