@@ -1,7 +1,7 @@
 ###
 
 <p float="left">
-  <img src="images/image.jpeg" width="250" align="left">
+  <img src="https://0x0.st/8SWy.gif" width="250" align="left">
   <p float="left">
     <samp>
       i'm Vedant | 20 | he/him/his
