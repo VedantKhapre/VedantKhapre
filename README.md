@@ -67,9 +67,10 @@
 ###
   
   <div align="center">
-    <a href="https://open.spotify.com/user/316lavx4eppcg3psticrsva4uale">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=316lavx4eppcg3psticrsva4uale&count=1&unique=true" alt="Spotify recently played" />
-    </a>
+  <img src="https://0x0.st/8SWy.gif" width="250" align="centre">
+    <div><a href="https://open.spotify.com/user/316lavx4eppcg3psticrsva4uale">
+      <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=316lavx4eppcg3psticrsva4uale&count=1&unique=true" alt="Spotify recently played" />
+    </a></div>
   </div>
   
 
